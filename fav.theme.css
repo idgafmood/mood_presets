@@ -1,7 +1,7 @@
 @import url(https://maendisease.github.io/BetterDiscordStuff/css/boostedFavorites.css);
 
 :root {
-    --favorites-name: 'My Favorites';
+    --favorites-name: '*';
     --favorites-guild-icon: url(https://github.com/idgafmood/mood_presets/releases/download/%2B/sakuya.gif);
     --favorites-banner: url(https://i.imgur.com/jtcxsU6.png);
 
