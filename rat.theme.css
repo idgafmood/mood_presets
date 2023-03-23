@@ -1,0 +1,12 @@
+@import url(https://maendisease.github.io/BetterDiscordStuff/css/boostedFavorites.css);
+:root {
+    --favorites-name: '*';
+    --favorites-guild-icon: url(https://github.com/idgafmood/mood_presets/releases/download/%2B/ratIcon.jpg);
+    --favorites-banner: url(https://github.com/idgafmood/mood_presets/releases/download/%2B/ratBanner1.jpg);
+    
+    --category-1: ''; --c1: url(https://github.com/idgafmood/mood_presets/releases/download/%2B/rat1.gif);
+    --category-2: ''; --c2: url(https://github.com/idgafmood/mood_presets/releases/download/%2B/rat2.jpg);
+    --category-3: ''; --c3: url(https://github.com/idgafmood/mood_presets/releases/download/%2B/ratBanner.png);
+    --category-4: ''; --c4: url(https://github.com/idgafmood/mood_presets/releases/download/%2B/rat4.jpg);
+}
+/** rat.theme.css */
